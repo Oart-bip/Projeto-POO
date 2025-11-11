@@ -4,21 +4,8 @@ Sistema de gestão de produtos, clientes e pedidos com processamento assíncrono
 -------------------------------------------------------------
 
 # Instruções para Compilar e Executar
-- Usando IDE (Recomendado)
-- Crie um novo projeto Java    
-- Crie a estrutura de pacotes: enums, exception, util, model, repository, service  
-- Copie cada arquivo para seu respectivo pacote  
+
 - Execute a classe Main.java  
-
--------------------------------------------------------------
-
-# Linha de Comando (Windows)
-- javac -d bin -sourcepath src src/Main.java  
-- java -cp bin Main  
-
-# Linha de Comando (Linux/Mac)
-- javac -d bin -sourcepath src src/Main.java  
-- java -cp bin Main  
 
 -------------------------------------------------------------
 
